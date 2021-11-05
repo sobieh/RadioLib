@@ -1,5 +1,7 @@
 # RadioLib ![Build Status](https://github.com/jgromes/RadioLib/workflows/CI/badge.svg)
 
+# Contains additional CC1101 features that i needed for my own projects.
+
 ### _One radio library to rule them all!_
 
 ## Universal wireless communication library for Arduino
